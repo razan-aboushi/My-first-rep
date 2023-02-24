@@ -1,4 +1,7 @@
 ### My name is Razan Anan Aboushi , and I'm 22 years old ,I was born on the fourteenth of October, 2000.I graduated from the University of Jordan majoring in Management Information Systems with 3.94/4 GPA.
+
+ Connect me in the LinkedIn [Razan Aboushi](https://jo.linkedin.com/in/razan-aboushi)
+ 
 >**My hobbies are:**
 - Drawing.
 - Writing.
