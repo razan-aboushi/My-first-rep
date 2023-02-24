@@ -2,6 +2,7 @@
 >**My hobbies are:**
 - Drawing.
 - Writing.
+
 _And I like purple color. Now I'm working on myself to become professional web and mobile developer._
 
 ## I'm motivated ,fast learner and i love to learn with a team.
