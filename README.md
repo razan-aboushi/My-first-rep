@@ -3,8 +3,10 @@
 - Drawing.
 - Writing.
 
-_And I like purple color. Now I'm working on myself to become professional web and mobile developer._
+_And I like purple color_. :purple_heart:
 
-## I'm motivated ,fast learner and i love to learn with a team.
+### Now I'm working on myself to become professional web and mobile developer.
+
+## I'm motivated ,fast learner and i love to learn with a team. :smile:	
 
 ![This is an image](https://pm1.narvii.com/6734/21b660dacccb51f7128caa84c8295f2aec190952v2_hq.jpg)
