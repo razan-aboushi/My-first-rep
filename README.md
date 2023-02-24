@@ -7,6 +7,7 @@ _And I like purple color_. :purple_heart:
 
 ### Now I'm working on myself to become professional web and mobile developer.
 
-## I'm motivated ,fast learner and i love to learn with a team. :smile:	
+## I'm motivated ,fast learner and i love to learn with a team,and I'm happy to become with you. :smile:
+
 
 ![This is an image](https://pm1.narvii.com/6734/21b660dacccb51f7128caa84c8295f2aec190952v2_hq.jpg)
