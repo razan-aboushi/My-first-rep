@@ -8,7 +8,7 @@
 
 _And I like purple color_. :purple_heart:
 
-- [x] Now I'm working on myself to become professional web and mobile developer.
+- [x] Now I'm working on myself to become professional web and mobile developer ,so I joined the [Coding Academy by Orange](https://yo.orange.jo/ar/akadymyt-orange-llbrmjt).
 
 ## I'm motivated ,fast learner and i love to learn with a team,and I'm happy to become with you. :smile:
 
